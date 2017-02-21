@@ -1,2 +1,4 @@
 # hello-world
-place holder 
+This is to get everything setup. There is nothing in here right now. 
+
+
